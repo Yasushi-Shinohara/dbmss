@@ -1,0 +1,14 @@
+{
+  "app":{
+    "description": "The application information for DataBase Mediated Simulation System(DBMSS).",
+    "appname": "gLZ",
+    "version": false,
+    "languages": ["python3", "fortran"],
+    "primary_language": "language1",
+    "dependencies": ["numpy+scipy+matplotlib+ctypes", "BLAS+LAPACK+FFTW"],
+    "developers": ["hoge hogehoge"],
+    "git": true,
+    "github_URI": false,
+    "gitlab_URI": false
+  }
+}
