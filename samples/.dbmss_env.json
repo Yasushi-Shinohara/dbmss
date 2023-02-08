@@ -1,0 +1,14 @@
+{
+  "env":{
+    "description": "The computational enviromental information for DataBase Mediated Simulation System (DBMSS)",
+    "nickname": "beta000",
+    "cpu_model_name": "Intel(R) Xeon(R) W-2275 CPU @ 3.30GHz /proc/cpuinfo",
+    "system-release": "CentOS Linux release 7.9.2009 (Core) /etc/system-release",
+    "lsb-release": false,
+    "MemTotal": "65541072 kB /proc/meminfo",
+    "user": "hoge",
+    "hostname": "hogehoge.localdomain",
+    "job submitting system": "OpenPBS",
+    "pbs_version": "20.0.1"
+  }
+}
